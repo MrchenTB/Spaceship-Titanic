@@ -70,6 +70,8 @@
 - 交叉驗證準確率：0.82116
 - Kaggle Public Leaderboard 分數：0.80266
 
+## Pipeline視覺化
 ![Pipeline visualization](pipeline.png)
+
 ---
 
